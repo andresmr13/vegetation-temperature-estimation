@@ -13,7 +13,7 @@ Scripts required to compute calibrated thermal imagery with the Boson 640.
 
 More info: <br />
 Andres Montes de Oca <br />
-PhD. Student <br />
-andresmr@cio.mx
+Bio and Ag department, UC Davis<br />
+amoreb@ucdavis.edu
 
 🍀
